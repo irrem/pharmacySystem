@@ -1,0 +1,189 @@
+D:\Users\srsyi\source\repos\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.exe.config
+D:\Users\srsyi\source\repos\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.exe
+D:\Users\srsyi\source\repos\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.pdb
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csprojAssemblyReference.cache
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.Properties.Resources.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csproj.GenerateResource.cache
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.exe
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.pdb
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.AnaMenu.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.AnlasmaliHastane.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.NobetDurum.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.DigerUrunEkle.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.DigerUrunler.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.HastaBilgileri.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.YeniHasta.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.IlacGoruntuleme.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.SaglikArsiv.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.SaglikArsivGoruntuleme.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.IlacBilgileri.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.GenelMenu.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.PersonelGirisi.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.YoneticiGirisi.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.PersonelEkle.resources
+D:\Users\srsyi\source\repos\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.PersonelGoruntule.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.exe.config
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.exe
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\bin\Debug\EczaneOtomasyon.pdb
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.AnaMenu.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.GenelMenu.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.AnlasmaliHastane.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.DigerUrunEkle.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.DigerUrunler.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.HastaBilgileri.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.IlacBilgileri.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.IlacGoruntuleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.NobetDurum.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.PersonelEkle.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.PersonelGirisi.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.PersonelGoruntule.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.SaglikArsiv.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.SaglikArsivGoruntuleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.YeniHasta.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.YoneticiGirisi.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.exe
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.pdb
+C:\Users\LENOVO\Desktop\EczaneOtomasyon\obj\Debug\EczaneOtomasyon.Diğer_Ürünler.KategoriUrunEkleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.AnaMenu.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Diğer_Ürünler.KategoriUrunEkleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.GenelMenu.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.DigerUrunEkle.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.DigerUrunler.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.IlacBilgileri.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.IlacGoruntuleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.NobetDurum.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelEkle.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelGirisi.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelGoruntule.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.SaglikArsiv.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.SaglikArsivGoruntuleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.YoneticiGirisi.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.exe
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.pdb
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.exe.config
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.exe
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.pdb
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hasta_Bilgi.YeniHasta.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hasta_Bilgi.HastaBilgileri.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Saglik_Arsivi.SaglikData.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hastane.AnlasmaliHastane.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\bdr.exe
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.Licensing.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.FormKasa.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csproj.CopyComplete
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.exe.config
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.exe
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.pdb
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.AnaMenu.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.FormKasa.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hastane.AnlasmaliHastane.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Diğer_Ürünler.KategoriUrunEkleme.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.GenelMenu.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.DigerUrunEkle.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.DigerUrunler.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hasta_Bilgi.HastaBilgileri.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.IlacBilgileri.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.IlacGoruntuleme.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelEkle.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelGirisi.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelGoruntule.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Properties.Resources.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.SaglikArsiv.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.SaglikArsivGoruntuleme.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hasta_Bilgi.YeniHasta.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.YoneticiGirisi.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.exe
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.pdb
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hakkinda.resources
+C:\Users\srsyi\OneDrive\Masaüstü\Eczane\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Kasa.KasaGeçmiş.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.exe.config
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.exe
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\bin\Debug\EczaneOtomasyon.pdb
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.AnaMenu.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hakkinda.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.FormKasa.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hastane.AnlasmaliHastane.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Diğer_Ürünler.KategoriUrunEkleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.GenelMenu.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.DigerUrunEkle.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.DigerUrunler.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hasta_Bilgi.HastaBilgileri.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.IlacBilgileri.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.IlacGoruntuleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelEkle.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelGirisi.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.PersonelGoruntule.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.SaglikArsiv.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.SaglikArsivGoruntuleme.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Hasta_Bilgi.YeniHasta.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.YoneticiGirisi.resources
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.exe
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.pdb
+C:\Users\LENOVO\Desktop\EczaneOtomasyo_son\EczaneOtomasyon - Kopya\obj\Debug\EczaneOtomasyon.Kasa.KasaGecmis.resources
